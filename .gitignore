@@ -1,0 +1,5 @@
+.vscode/
+*.o
+*./log
+*/test_*
+test_*
